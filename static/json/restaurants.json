@@ -1,0 +1,45 @@
+{
+    "0": [{
+            "name": "真香炒炒馆",
+            "desc": "只做炒菜哦",
+            "shipminprice": 20,
+            "tags": ["food", "happiness", "all"]
+        },
+        {
+            "name": "海鲜大王吧",
+            "desc": "花蛤牡蛎，蛏子扇贝，想吃什么尽管说，我们不一定有",
+            "shipminprice": 50,
+            "tags": ["food", "happiness", "all"]
+        },
+        {
+            "name": "2点点奶茶",
+            "desc": "没有盗版哈，我们是每次做两杯1点点，如图",
+            "shipminprice": 20,
+            "tags": ["milktea", "all"]
+        },
+        {
+            "name": "飘飘芋仙",
+            "desc": "做的东西跟鲜芋仙是一个种类的，但是店名有很大区别。所以是原创",
+            "shipminprice": 15,
+            "tags": ["milktea", "all"]
+        },
+        {
+            "name": "医生远离我",
+            "desc": "One doctor a day keeps apples away",
+            "shipminprice": 20,
+            "tags": ["fruit", "all"]
+        },
+        {
+            "name": "包治万病大药房",
+            "desc": "如果你没有吃足够的水果，可能就要来这里",
+            "shipminprice": 30,
+            "tags": ["medicine", "all"]
+        },
+        {
+            "name": "半日达超市",
+            "desc": "半日达是店名，本店不提供半日达服务，谢谢理解",
+            "shipminprice": 100,
+            "tags": ["supermarket", "all"]
+        }
+    ]
+}
